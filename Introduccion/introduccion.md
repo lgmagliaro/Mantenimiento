@@ -6,7 +6,7 @@ Fecha de elaboración: 29.05.2021 - Fecha modificación:
  - MODALIDAD DE CURSADO: ANUAL
  - CARGA HORARIA: 2 hs/semana
  - DOCENTES:
-	 - Ing. Esp. Leonardo Magliaro
+	 - Ing. Esp. Leonardo Magliaro / leonardo.magliaro@frra.utn.edu.ar
 ### FUNDAMENTO DE LA MATERIA:
 Uno de los aspectos más importantes del trabajo profesional en la industria, es el de mantener trabajando la maquinaria y equipo en óptimas condiciones de operación, por lo cual esta materia proporciona una visión amplia de las diferentes técnicas de mantenimiento industrial.
 ### DESCRIPCION DE LA MATERIA:
